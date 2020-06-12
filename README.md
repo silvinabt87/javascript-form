@@ -5,8 +5,10 @@
 2. Clone the fork you've just created: ```git clone git@github.com:<YOUR-OWN-USERNAME>/javascript-form.git```
 3. Open the files on a code editor (like VSC or Sublime, or any other you prefer) and change the code! Introduce new features or improve existing ones.
 4. Add the changed files to be tracked: ```git add .``` for all the files to be tracked or ```git add <FILE NAME>``` to track only certain files.
+
+..* _Tip_: You can run ```git status``` to see which files have changed.
 5. Commit the changes onto your branch: ``` git commit -m "<MESSAGE ON WHAT THE COMMIT DOES>".``` 
-Remember to follow the pattern "This commit will...". Example: "This commit will add index.html file"--> git commit -m "add index.html file".
+Remember to follow the pattern "This commit will...". Example: "This commit will add index.html file"--> ```git commit -m "add index.html file".```
 6. Push the changes onto your repository: ```git push origin master```
 7. Create a pull request to merge the changes onto the original repository. Check [this](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) out to find out more about pull requests.
 
