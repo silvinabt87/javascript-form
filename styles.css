@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(199, 255, 246);
+    padding: 50px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Dosis', sans-serif;
+}
+div{
+    display: flex;
+    flex-direction: column;   
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 300px;
+}
+
+button{
+    display: flex;
+    align-items: center;
+    align-self: center;
+    border-radius: 10px;
+    background-color: rgb(154, 47, 255);
+    height: 50px;
+    width: fit-content;
+    box-shadow: 0px 5px 5px rgb(196, 196, 196);
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.seccion-respuestas{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    padding: 20px;
+    justify-content: center;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    }
+
+ul{
+    list-style-type: square;
+}
+/* 
+.alerta{
+    margin: 50px;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: black;
+    width: fit-content;
+    display: flex;
+    padding: 10px;
+
+}  */
