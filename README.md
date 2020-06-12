@@ -12,7 +12,7 @@ Remember to follow the pattern "This commit will...". Example: "This commit will
 
 
 ## How do I see the changes I'm making to the code?
-1. Make sure you have Yarn installed. You don't? Don't worry, you'll find it [here] (https://classic.yarnpkg.com/en/docs/getting-started)
+1. Make sure you have Yarn installed. You don't? Don't worry, you'll find it [here](https://classic.yarnpkg.com/en/docs/getting-started)
 2. Run ```yarn start``` on your project's terminal on the code editor.
 
 Have fun coding!
